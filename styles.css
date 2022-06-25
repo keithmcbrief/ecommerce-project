@@ -239,8 +239,8 @@ p {
   background: url(./assets/wave.svg);
   content: "";
   position: absolute;
-  width: 101vh;
-  height: 12vh;
+  width: 101vw;
+  height: 12vw;
   left: 0;
   z-index: 1;
   background-size: cover;
